@@ -95,10 +95,7 @@ Il nous demande d'analyser ses données suivant 3 processus.
 
 ##
 ### <ins> Les éléments importants </ins> :
-* [Le dashboard Power BI converti au format PDF](SRC/Dashboard_le_bon_mayennais.pdf)
 * [Le process d'import TSV](SRC/Process_Import_TSV.md)
-* [La Présentation Powerpoint](SRC/Projet_Big_Data.ppt)
-* [La Présentation au format PDF](SRC/Projet_Big_Data_diapo.pdf)
 * Le code des mappers et reducers (en python)
 * Les exports CSV et PDF
 
